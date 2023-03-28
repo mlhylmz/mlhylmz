@@ -17,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlhylmz&show_icons=true&locale=en&layout=compact" alt="mlhylmz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlhylmz&show_icons=true&theme=dark&locale=en" alt="mlhylmz" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mlhylmz&label=Profile%20views&color=000000&style=flat" alt="mlhylmz" /> </p>
