@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melih Yılmaz</h1>
 <h3 align="center">Software Engineer</h3>
 
-<h4>- 📫 E-Mail: **melihyilmaz2645@gmail.com**</h4> 
-<h4>- 📫 LinkedIn **https://www.linkedin.com/in/mlhylmz/**</h4> 
+<h4>- 📫 E-Mail: melihyilmaz2645@gmail.com</h4> 
 
+<a href="https://linkedin.com/in/mlhylmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlhylmz" height="30" width="40" /></a>
 
 
 
